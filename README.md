@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I'm a Full-Stack Web Developer with experience programming with React, Node, Express, MongoDB, GraphQL, JavaScript, and more!
+
+My favorite projects are: 
+- ClearBill, an application designed to help users organize and view all of their outstanding bills, amounts, and due dates
+- Music Notes, an application to help music teachers easily manage their students
+
 <!--
 **suejinkim20/suejinkim20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
