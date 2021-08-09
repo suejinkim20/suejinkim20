@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there! I'm Suejin Kim
 
 I'm a Full-Stack Web Developer with experience programming with React, Node, Express, MongoDB, GraphQL, JavaScript, and more!
 
