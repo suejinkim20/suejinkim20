@@ -3,7 +3,7 @@
 Full Stack Web Developer (MERN Stack) with a background in classroom teaching.  Recognized for strong work ethic and relationship-building skills with colleagues and students. Dedicated, creative, self-reflective problem solver. Passionate about designing and writing clean, user-friendly, and efficient web applications. Constructive collaborator committed to finding and communicating solutions. Perpetual learner and improver. Graduate of UNC- Chapel Hill Coding Bootcamp with an A+ average. 
 
 My favorite projects are: 
-- ClearBill, an application designed to help users organize and view all of their outstanding bills, amounts, and due dates
+- ClearBills, an application designed to help users organize and view all of their outstanding bills, amounts, and due dates
 - Music Notes, an application to help music teachers easily manage their students
 
 I'm currently working on:
