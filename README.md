@@ -1,5 +1,7 @@
 ### Hi there! I'm Suejin Kim
+I'm a full-stack web developer specializing in building and maintaining front end web applications, updating and managing content, metrics collection and analysis, and I dabble in UI/UX. I'm passionate about designing and writing clean, beautiful, user-friendly, and efficient web applications.
 
+<!--
 Full Stack Web Developer with a background in classroom teaching.  Recognized for strong work ethic and relationship-building skills with colleagues and students. Dedicated, creative, self-reflective problem solver. Passionate about designing and writing clean, user-friendly, and efficient web applications. Constructive collaborator committed to finding and communicating solutions. Perpetual learner and improver. Graduate of UNC- Chapel Hill Coding Bootcamp with an A+ average. 
 
 My favorite projects are: 
@@ -9,7 +11,6 @@ My favorite projects are:
 I'm currently working on:
 - Contact List App with React and Tailwind CSS, a searchable contact list application using the Random User API
 
-<!--
 **suejinkim20/suejinkim20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
