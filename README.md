@@ -1,5 +1,5 @@
 ### Hi there! I'm Suejin Kim
-I'm a full-stack web developer specializing in building and maintaining front end web applications, updating and managing content, metrics collection and analysis, and I dabble in UI/UX. I'm passionate about designing and writing clean, beautiful, user-friendly, and efficient web applications.
+I'm a full-stack web developer specializing in building and maintaining front end web applications. I also dabble in UI/UX, wiring up content management systems, and metrics collection and analysis. I believe in the importance of building applications that are both beautiful and accessible and I'm passionate about designing and writing clean, user-friendly, and efficient web applications.
 
 <!--
 Full Stack Web Developer with a background in classroom teaching.  Recognized for strong work ethic and relationship-building skills with colleagues and students. Dedicated, creative, self-reflective problem solver. Passionate about designing and writing clean, user-friendly, and efficient web applications. Constructive collaborator committed to finding and communicating solutions. Perpetual learner and improver. Graduate of UNC- Chapel Hill Coding Bootcamp with an A+ average. 
